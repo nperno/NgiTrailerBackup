@@ -15,3 +15,6 @@ Testing my branch.
 #TODO
 
 1. Create a function to convert C to F (maybe auto detect what the car is using?)
+2. Auto detect backup (switch between backup screen and the last screen you were on)
+3. Auto detech if trailer wiring is connect
+4. detect tow haul mode?
